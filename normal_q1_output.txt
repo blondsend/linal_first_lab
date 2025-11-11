@@ -1,0 +1,13 @@
+total_subgroups = 11300
+random_index = 9014
+random_order = 24
+random_generators = [ (1,7,6), (5,7,6), (3,4) ]
+fixed_index = 14
+fixed_order = 2
+fixed_index_in_G = 2520
+fixed_normal = false
+fixed_generators = [ (2,5) ]
+left_cosets_count = 2520
+right_cosets_count = 2520
+left_cosets_example = [[ (), (2,5) ], [ (6,7), (2,5)(6,7) ], [ (5,6), (2,5,6) ]]
+right_cosets_example = [[ (), (2,5) ], [ (6,7), (2,5)(6,7) ], [ (5,6), (2,6,5) ]]

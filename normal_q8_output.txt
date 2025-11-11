@@ -1,0 +1,2 @@
+m = 7
+generators = [ 3, 5 ]

@@ -1,0 +1,2 @@
+m = 7
+subgroups = [ Group( Z(7)^0 ), Group( [ Z(7)^3 ] ), Group( [ Z(7)^2 ] ), Group( [ Z(7)^3, Z(7)^2 ] ) ]

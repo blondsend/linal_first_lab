@@ -1,0 +1,6 @@
+poly_F5 = x_1^5+Z(5)*x_1^4+x_1^3-x_1+Z(5)^3
+is_irreducible_F5 = true
+factors_F5 = [ x_1^5+Z(5)*x_1^4+x_1^3-x_1+Z(5)^3 ]
+poly_F9 = x_1^4+x_1^3-x_1+Z(3)^0
+is_irreducible_F9 = true
+factors_F9 = [ x_1^4+x_1^3-x_1+Z(3)^0 ]

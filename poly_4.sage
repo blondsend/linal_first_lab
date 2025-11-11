@@ -1,0 +1,13 @@
+F = GF(13)
+R.<x> = PolynomialRing(F)
+N = 13
+s0 = N % 11
+s1 = (N+1) % 11
+s2 = (N+2) % 11
+f = s2*x^2 + s1*x + s0
+g = x^8 + x^4 + x^3 + 6*x + 2
+h = inverse_mod(f, g)
+print("f =", f)
+print("f^-1 mod g =", h)
+result = (f * h) % g
+print("f * h mod g =", result)
